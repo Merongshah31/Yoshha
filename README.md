@@ -13,7 +13,7 @@ a system or app about anime for random based on https://myanimelist.net/
 
 ## version history
  * 0.1
-  *history
+   * history
   
 ## Acknowledgments
 
