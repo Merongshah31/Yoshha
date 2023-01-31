@@ -9,7 +9,7 @@ a system or app about anime for random based on https://myanimelist.net/
 - [ ] app
 - [ ] website
 - [ ] genre
-
+- [ ] pandas
 
 ## version history
  * 0.1
