@@ -3,8 +3,9 @@ import requests
 import json
 import secrets
 
-CLIENT_ID = 'c4f755446c3d78aa0ae1079cdf45da02'
-CLIENT_SECRET = 'c4f755446c3d78aa0ae1079cdf45da02'
+#get client id and secret from animelist MAL Api
+CLIENT_ID = 'client id '
+CLIENT_SECRET = 'client secret'
 
 # 1. Generate a new Code Verifier / Code Challenge.
 def get_new_code_verifier() -> str:
